@@ -1,6 +1,6 @@
 # Mohammed's Store 
 
-<img src="./MohammedStore.gif" width="500" height="600">
+<img src="./MohammedStore.gif">
 
 
 - Built an Ecommerce Website using MongoDB, Express.js, React.js Node.js and Tailwind CSS. 
